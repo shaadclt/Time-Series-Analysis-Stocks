@@ -25,10 +25,10 @@ This is a Streamlit application that performs time series analysis on stocks. It
 
 3. The application will retrieve the historical stock data from Yahoo Finance and display the following visualizations:
 
-Line Plot: A line chart showing the closing prices over time.
-Candlestick Chart: A candlestick chart displaying the open, high, low, and close prices.
-Bar Plot: A bar chart representing the closing prices.
-Additionally, a candlestick chart with buttons and a slider is displayed, allowing you to zoom in and out of different time periods.
+*Line Plot: A line chart showing the closing prices over time.
+*Candlestick Chart: A candlestick chart displaying the open, high, low, and close prices.
+*Bar Plot: A bar chart representing the closing prices.
+*Additionally, a candlestick chart with buttons and a slider is displayed, allowing you to zoom in and out of different time periods.
 
 4. Explore the visualizations and analyze the stock's time series data.
 
